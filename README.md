@@ -12,6 +12,9 @@ Methods in the system:
 ### Connection String
 Note: To run this system it's necessary to change the Connection String, for this access: 0-Portal -> appsettings.json -> CONNECTION_STRING and CONNECTION_STRING_DEBUG
 
+### Extra
+Maybe is necessary change "build action" in scripts. To run correctly it's necessary put: Embedded resourse
 
-![image](https://github.com/heberGustavo/C-Sharp/assets/44476616/6dc6de51-b889-47d3-86b2-213495be8914)
+Solution > 4-Migration > Scripts > All scripts
 
+![image](https://github.com/heberGustavo/teste-best-projects/assets/44476616/bffd384d-6d79-4a3b-820b-3d16bcee19be)
